@@ -6,7 +6,7 @@ end
 
 @variables x
 
-f = sin(x) * exp(x)
+f = ...
 
 ordre = ...
 
